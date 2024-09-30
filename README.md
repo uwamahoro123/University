@@ -9,15 +9,16 @@ This project is designed to manage and track students, professors, courses, enro
 ### 1. Students Table
 The `Students` table stores information about students.
 
-<img src="image/Capture2.PNG" />
+![Capture2](https://github.com/user-attachments/assets/b9dd07d6-7e07-40ca-8ddb-0ae617c6b317)
+
 
 ### 2. Professors Table
 The `Professors` table stores professor information.
 
-<img src="image/course professors.PNG" />
+
+
 
 ### 3. Courses Table
 The `Courses` table contains details about the courses offered by the institution.
 
-<img src="image/courses.PNG" />
 
